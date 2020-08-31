@@ -6,7 +6,6 @@
 ![Prerequisite](https://img.shields.io/badge/vscode-%5E1.48.0-blue.svg)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/vasco-martins/vscode-maia-ipsum#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vasco-martins/vscode-maia-ipsum/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/vasco-martins/Maia Ipsum)](https://github.com/vasco-martins/vscode-maia-ipsum/blob/master/LICENSE)
 
 > Generate paragraphs and lines from Eça de Queiroz's &#34;Os Maias&#34;
 
