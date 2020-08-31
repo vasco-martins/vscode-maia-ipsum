@@ -1,0 +1,23 @@
+{
+  "name": "maia-ipsum",
+  "displayName": "Maia Ipsum",
+  "description": "Generate paragraphs and lines from Eça de Queiroz's \"Os Maias\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vasco Martins",
+    "email": "vascomartins.dev@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
