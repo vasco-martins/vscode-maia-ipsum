@@ -3,10 +3,15 @@
   "displayName": "Maia Ipsum",
   "description": "Generate paragraphs and lines from Eça de Queiroz's \"Os Maias\"",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasco-martins/vscode-maia-ipsum"
+  },
   "author": {
     "name": "Vasco Martins",
     "email": "vascomartins.dev@gmail.com"
   },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.48.0"
   },
