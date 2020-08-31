@@ -1,65 +1,42 @@
-# maia-ipsum README
+![Logo](https://raw.githubusercontent.com/vasco-martins/vscode-maia-ipsum/main/icon.png)
 
-This is the README for your extension "maia-ipsum". After writing up a brief description, we recommend including the following sections.
+# Welcome to Maia Ipsum 👋
 
-## Features
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![Prerequisite](https://img.shields.io/badge/vscode-%5E1.48.0-blue.svg)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/vasco-martins/vscode-maia-ipsum#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vasco-martins/vscode-maia-ipsum/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/vasco-martins/Maia Ipsum)](https://github.com/vasco-martins/vscode-maia-ipsum/blob/master/LICENSE)
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+> Generate paragraphs and lines from Eça de Queiroz's &#34;Os Maias&#34;
 
-For example if there is an image subfolder under your extension project workspace:
+## Prerequisites
 
-\!\[feature X\]\(images/feature-x.png\)
+- vscode ^1.48.0
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Snippets
 
-## Requirements
+| Command                | Description           |
+| ---------------------- | --------------------- |
+| maias1, maias2, maias3 | Generates a sentence  |
+| maiap                  | Generates a paragraph |
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Author
 
-## Extension Settings
+👤 **Vasco Martins**
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+- Github: [@vasco-martins](https://github.com/vasco-martins)
 
-For example:
+## Show your support
 
-This extension contributes the following settings:
+Give a ⭐️ if this project helped you!
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+## 📝 License
 
-## Known Issues
+Copyright © 2020 [Vasco Martins](https://github.com/vasco-martins).
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+This project is [MIT](https://github.com/vasco-martins/vscode-maia-ipsum/blob/master/LICENSE) licensed.
 
-## Release Notes
+---
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
