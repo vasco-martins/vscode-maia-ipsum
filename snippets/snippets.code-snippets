@@ -2,7 +2,7 @@
   "Maia Sentence": {
     "prefix": "maias1",
     "body": [
-      "A casa que os Maias vieram habitar em Lisboa, no outono de 1875, era conhecida na vizinhança da rua de S. Francisco de Paula, e em todo o bairro das Janelas Verdes, pela casa do Ramalhete ou simplesmente o Ramalhete."
+      "A casa que os MAIAS vieram habitar em Lisboa, no outono de 1875, era conhecida na vizinhança da rua de S. Francisco de Paula, e em todo o bairro das Janelas Verdes, pela casa do Ramalhete ou simplesmente o Ramalhete."
     ],
     "description": "Creates a sentence from \"Os Maias\""
   },
@@ -25,7 +25,7 @@
   "Maia Paragraph": {
     "prefix": "maiap",
     "body": [
-      "Os Maias eram uma antiga família da Beira, sempre pouco numerosa, sem linhas colaterais, sem parentelas - e agora reduzida a dois varões, o senhor da casa, Afonso da Maia, um velho já, quasi um antepassado, mais idoso que o século, e seu neto Carlos que estudava medicina em Coimbra. Quando Afonso se retirara definitivamente para Santa Olavia, o rendimento da casa excedia já cinquenta mil cruzados: mas desde então tinham-se acumulado as economias de vinte anos de aldeia; viera também a herança dum ultimo parente, Sebastião da Maia, que desde 1830 vivia em Nápoles, só, ocupando-se de numismática; - e o procurador podia certamente sorrir com segurança quando falava dos Maias e da sua fatia de pão."
+      "Os MAIAS eram uma antiga família da Beira, sempre pouco numerosa, sem linhas colaterais, sem parentelas - e agora reduzida a dois varões, o senhor da casa, Afonso da Maia, um velho já, quasi um antepassado, mais idoso que o século, e seu neto Carlos que estudava medicina em Coimbra. Quando Afonso se retirara definitivamente para Santa Olavia, o rendimento da casa excedia já cinquenta mil cruzados: mas desde então tinham-se acumulado as economias de vinte anos de aldeia; viera também a herança dum ultimo parente, Sebastião da Maia, que desde 1830 vivia em Nápoles, só, ocupando-se de numismática; - e o procurador podia certamente sorrir com segurança quando falava dos MAIAS e da sua fatia de pão."
     ],
     "description": "Creates a paragraph from \"Os Maias\""
   }
